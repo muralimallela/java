@@ -1,0 +1,2 @@
+# Java Beginner Programs
+Welcome to the collection of Java beginner programs. This guide contains a variety of fundamental Java programs designed to help you grasp the basics of the language. Whether you're a novice programmer or looking to refresh your skills, these examples will provide a solid foundation in Java programming. Each program is explained in detail to ensure a clear understanding of the concepts involved.
